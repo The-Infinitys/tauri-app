@@ -1,14 +1,14 @@
 /* デフォルトのライトモードスタイル */
 :root {
-  --background-color: white;
-  --foreground-color: black;
+  --background-color: #eeeeee;
+  --foreground-color: #111111;
 }
 
 /* ダークモードスタイル */
 @media (prefers-color-scheme: dark) {
   :root {
-    --background-color: black;
-    --foreground-color: white;
+    --background-color: #111111;
+    --foreground-color: #eeeeee;
   }
 }
 

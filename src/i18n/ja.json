@@ -1,0 +1,20 @@
+{
+  "application": {
+    "leftMenu": {
+      "title": "メニュー",
+      "home": "ホーム",
+      "search": "検索",
+      "update": "更新",
+      "settings": "設定"
+    },
+    "pages": {
+      "home": {
+        "title": "ようこそ！",
+        "descriptions": {
+          "first": "Infinity Package Managerは、Linuxディストリビューション用のパッケージマネージャです。",
+          "second": "このアプリケーションを使用すると、パッケージの検索、インストール、アンインストール、および更新が可能です。"
+        }
+      }
+    }
+  }
+}

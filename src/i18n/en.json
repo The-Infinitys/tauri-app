@@ -1,0 +1,20 @@
+{
+  "application": {
+    "leftMenu": {
+      "title": "Menu",
+      "home": "Home",
+      "search": "Search",
+      "update": "Update",
+      "settings": "Settings"
+    },
+    "pages": {
+      "home": {
+        "title": "Welcome!",
+        "descriptions": {
+          "first": "Infinity Package Manager is a package manager for Linux distributions.",
+          "second": "This application allows you to search, install, uninstall, and update packages."
+        }
+      }
+    }
+  }
+}
