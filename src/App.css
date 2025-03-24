@@ -23,3 +23,22 @@ button {
   border-radius: auto;
   border:1px solid var(--foreground-color);
 }
+
+div.left-menu{
+  position:fixed;
+  top:0;
+  left:0;
+  width:200px;
+  height:100%;
+  background-color: color-mix(in srgb,transparent 90%,var(--foreground-color));
+}
+
+div.left-menu ul{
+  list-style:none;
+  padding:0;
+}
+div.page-content{
+  margin-left:200px;
+  width: calc(100% - 200px);
+  min-height:100%;
+}
